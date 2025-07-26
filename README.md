@@ -27,7 +27,7 @@ This project implements an intelligent AI chatbot designed to provide accurate a
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/ritukanchi/RAG_legal_chatbot.git
     cd RAG_legal_chatbot
     ```
 
